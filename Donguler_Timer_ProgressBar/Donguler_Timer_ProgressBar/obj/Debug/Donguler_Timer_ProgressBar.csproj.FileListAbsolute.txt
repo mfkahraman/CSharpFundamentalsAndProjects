@@ -1,0 +1,10 @@
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\bin\Debug\Donguler_Timer_ProgressBar.exe.config
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\bin\Debug\Donguler_Timer_ProgressBar.exe
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\bin\Debug\Donguler_Timer_ProgressBar.pdb
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\obj\Debug\Donguler_Timer_ProgressBar.csproj.AssemblyReference.cache
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\obj\Debug\Donguler_Timer_ProgressBar.Form1.resources
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\obj\Debug\Donguler_Timer_ProgressBar.Properties.Resources.resources
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\obj\Debug\Donguler_Timer_ProgressBar.csproj.GenerateResource.cache
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\obj\Debug\Donguler_Timer_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\obj\Debug\Donguler_Timer_ProgressBar.exe
+C:\Users\mfurk\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer_ProgressBar\Donguler_Timer_ProgressBar\obj\Debug\Donguler_Timer_ProgressBar.pdb

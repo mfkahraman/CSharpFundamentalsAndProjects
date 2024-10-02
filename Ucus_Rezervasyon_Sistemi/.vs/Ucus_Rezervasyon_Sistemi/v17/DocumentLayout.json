@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Ucus_Rezervasyon_Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB52B4-ACC2-4658-937B-536C449BC5CA}|Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi.csproj|c:\\users\\mfurk\\source\\repos\\uygulama geli\u015Ftirerek c# \u00F6\u011Frenin a\u0027dan z\u0027ye e\u011Fitim seti\\ucus_rezervasyon_sistemi\\ucus_rezervasyon_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ACB52B4-ACC2-4658-937B-536C449BC5CA}|Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi.csproj|solutionrelative:ucus_rezervasyon_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB52B4-ACC2-4658-937B-536C449BC5CA}|Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi.csproj|c:\\users\\mfurk\\source\\repos\\uygulama geli\u015Ftirerek c# \u00F6\u011Frenin a\u0027dan z\u0027ye e\u011Fitim seti\\ucus_rezervasyon_sistemi\\ucus_rezervasyon_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB52B4-ACC2-4658-937B-536C449BC5CA}|Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi.csproj|solutionrelative:ucus_rezervasyon_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Ucus_Rezervasyon_Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi\\Form1.cs",
+              "RelativeToolTip": "Ucus_Rezervasyon_Sistemi\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:36:11.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Ucus_Rezervasyon_Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Ucus_Rezervasyon_Sistemi\\Ucus_Rezervasyon_Sistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "Ucus_Rezervasyon_Sistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:33:35.589Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

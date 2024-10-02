@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Donguler_Timer_ProgressBar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0811B94-F283-487A-A5A3-D33CD1CC07E9}|Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar.csproj|c:\\users\\mfurk\\source\\repos\\uygulama geli\u015Ftirerek c# \u00F6\u011Frenin a\u0027dan z\u0027ye e\u011Fitim seti\\donguler_timer_progressbar\\donguler_timer_progressbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0811B94-F283-487A-A5A3-D33CD1CC07E9}|Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar.csproj|solutionrelative:donguler_timer_progressbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0811B94-F283-487A-A5A3-D33CD1CC07E9}|Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar.csproj|c:\\users\\mfurk\\source\\repos\\uygulama geli\u015Ftirerek c# \u00F6\u011Frenin a\u0027dan z\u0027ye e\u011Fitim seti\\donguler_timer_progressbar\\donguler_timer_progressbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0811B94-F283-487A-A5A3-D33CD1CC07E9}|Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar.csproj|solutionrelative:donguler_timer_progressbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar\\Form1.cs",
+              "RelativeDocumentMoniker": "Donguler_Timer_ProgressBar\\Form1.cs",
+              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar\\Form1.cs",
+              "RelativeToolTip": "Donguler_Timer_ProgressBar\\Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwGMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:52:38.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar\\Form1.cs",
+              "RelativeDocumentMoniker": "Donguler_Timer_ProgressBar\\Form1.cs",
+              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Donguler_Timer_ProgressBar\\Donguler_Timer_ProgressBar\\Form1.cs [Design]",
+              "RelativeToolTip": "Donguler_Timer_ProgressBar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:46:37.99Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

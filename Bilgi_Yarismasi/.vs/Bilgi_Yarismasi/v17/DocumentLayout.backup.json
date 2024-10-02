@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Bilgi_Yarismasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C37FF98-A1AD-4409-B3EC-F77B9660A213}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|c:\\users\\mfurk\\source\\repos\\uygulama geli\u015Ftirerek c# \u00F6\u011Frenin a\u0027dan z\u0027ye e\u011Fitim seti\\bilgi_yarismasi\\bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C37FF98-A1AD-4409-B3EC-F77B9660A213}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|solutionrelative:bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C37FF98-A1AD-4409-B3EC-F77B9660A213}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|c:\\users\\mfurk\\source\\repos\\uygulama geli\u015Ftirerek c# \u00F6\u011Frenin a\u0027dan z\u0027ye e\u011Fitim seti\\bilgi_yarismasi\\bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C37FF98-A1AD-4409-B3EC-F77B9660A213}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|solutionrelative:bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs",
+              "RelativeDocumentMoniker": "Bilgi_Yarismasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs",
+              "RelativeToolTip": "Bilgi_Yarismasi\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwIsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:47:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs",
+              "RelativeDocumentMoniker": "Bilgi_Yarismasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs [Design]",
+              "RelativeToolTip": "Bilgi_Yarismasi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:32:30.926Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
