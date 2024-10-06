@@ -172,7 +172,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 35F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.BackColor = System.Drawing.Color.CadetBlue;
+            this.BackColor = System.Drawing.Color.LightSeaGreen;
             this.ClientSize = new System.Drawing.Size(765, 667);
             this.Controls.Add(this.BtnKayitOl);
             this.Controls.Add(this.CmbCinsiyet);
