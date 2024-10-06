@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mfurk\\source\\repos\\CSharpFundamentalsAndProjects\\Proje_Hastane\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F359DE48-D8CA-4705-AF63-4531869E94BD}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\mfurk\\source\\repos\\csharpfundamentalsandprojects\\proje_hastane\\proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F359DE48-D8CA-4705-AF63-4531869E94BD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F359DE48-D8CA-4705-AF63-4531869E94BD}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\mfurk\\source\\repos\\csharpfundamentalsandprojects\\proje_hastane\\proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F359DE48-D8CA-4705-AF63-4531869E94BD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\mfurk\\source\\repos\\Uygulama Geli\u015Ftirerek C# \u00D6\u011Frenin A\u0027dan Z\u0027ye E\u011Fitim Seti\\Proje_Hastane\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,31 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmSekreterDetay.cs",
-              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\CSharpFundamentalsAndProjects\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
-              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.cs",
-              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\CSharpFundamentalsAndProjects\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
-              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T14:11:48.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmSekreterDetay.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mfurk\\source\\repos\\CSharpFundamentalsAndProjects\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
-              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.cs",
-              "ToolTip": "C:\\Users\\mfurk\\source\\repos\\CSharpFundamentalsAndProjects\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs [Design]",
-              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T14:11:45.426Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
