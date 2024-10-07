@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="42c4052688ab430292b5c15a3121f7db" Name="Diagram1">
+        <EntityTypeShape EntityType="DBEntityUrunModel.Kategoriler" Width="1.5" PointX="1.5" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBEntityUrunModel.Musteriler" Width="1.5" PointX="4.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBEntityUrunModel.Satislar" Width="1.5" PointX="7" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBEntityUrunModel.Urunler" Width="1.5" PointX="4.625" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="DBEntityUrunModel.FK_Urunler_Kategoriler" ManuallyRouted="false" />
+        <AssociationConnector Association="DBEntityUrunModel.FK_Satislar_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="DBEntityUrunModel.FK_Satislar_Urunler" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DBEntityUrunModel.Adminler" Width="1.5" PointX="9.25" PointY="3.875" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
