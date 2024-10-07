@@ -1,0 +1,17 @@
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.dll
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.dll
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.pdb
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanl.E8C0824F.Up2Date
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+C:\Users\mfurk\source\repos\CSharpFundamentalsAndProjects\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb
